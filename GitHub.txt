@@ -1,1 +1,2 @@
 GitHub is an online hosting platform for Version Control
+Add a conclusion to GitHub.txt file
